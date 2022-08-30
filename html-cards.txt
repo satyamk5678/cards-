@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Dev Online</title>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+
+
+    <main>
+      
+           
+       
+
+        <div class="section-1">
+            <div class="container text-center">
+                <h1 class="heading-1">Reliable, efficient delivery</h1>
+                <h1 class="heading-2"> Powered by technology</h1>
+                <p class="para-1">
+                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.
+                </p>
+
+                <div class="row justify-content-center text-center">
+                    <div class="col-md-4">
+                        <div class="card">
+                            <img src="https://cdn.pixabay.com/photo/2014/02/27/16/10/flowers-276014_960_720.jpg" alt="image" class="card-image-top" />
+                            <div class="card-body">
+                                <h4 class="card-title">Supervisor</h4>
+                                <p class="card-text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+                                     The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card">
+                            <img src="https://media.istockphoto.com/id/1181366400/photo/in-the-hands-of-trees-growing-seedlings-bokeh-green-background-female-hand-holding-tree-on.webp?s=612x612&w=is&k=20&c=ztGXlpeZreY00Fl4TqSK1InS3xvAKbA4uT7UXLOXzoM=" alt="image" class="card-image-top" />
+                            <div class="card-body">
+                                <h4 class="card-title">Team Builder / UX</h4>
+                                <p class="card-text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+                                The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,</p>
+                            </div>
+                        </div>
+                    </div>
+                  <div class="col-md-4">
+                        <div class="card">
+                            <img src="https://media.istockphoto.com/id/148069989/photo/field-with-white-daisies-under-blue-sky.webp?s=612x612&w=is&k=20&c=D-Xe1Jg-bkb38aLaDHviSJooXfaOZ_M__f2AMaKmJ9s=" alt="image" class="card-image-top" />
+                            <div class="card-body">
+                                <h4 class="card-title">Calculator</h4>
+                                <p class="card-text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+                                     The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card">
+                            <img src="https://cdn.pixabay.com/photo/2012/03/01/00/55/flowers-19830_960_720.jpg" alt="image" class="card-image-top" />
+                            <div class="card-body">
+                                <h4 class="card-title">Karma</h4>
+                                <p class="card-text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+                                The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+       

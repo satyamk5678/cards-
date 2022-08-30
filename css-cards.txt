@@ -1,0 +1,87 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+/* section-1 */
+
+.section-1 .heading-1{
+    margin-top: 8%;
+  color: grey
+}
+.section-1 .heading-2 {
+    margin-bottom: 5%;
+    font-size: 45px;
+}
+.section-1 .para-1 {
+    width: 60%;
+    margin-left: 20%;
+    margin-bottom: 5%;
+}
+.section-1 .card-image-top{
+    height: 12rem;
+}
+.section-1 .card-text, .para-1{
+    color: grey;
+}
+.section-1 {
+    margin-bottom: 8%;
+}
+.card {
+    width: 20rem;
+}
+
+
+
+
+
+
+
+/* responsive */
+@media screen and (max-width : 768px) {
+    .section-1 .card {
+        width: 14rem;
+    }
+    .section-1 .card-image-top{
+        height: 10rem;
+    }
+    .section-1 .container {
+        padding-left: 0%;
+        padding-right: 0%;
+    }
+    
+}
+@media screen and (max-width : 425px) {
+    
+    .section-1 .heading-1, .section-1 .heading-2{
+        font-size: 25px;
+    }
+    .section-1 .col-md-4{
+        padding: 5%;
+        margin-left: 10%;
+        margin-right: 0%;
+    }
+    .section-1 .card{
+        width: 20rem;
+    }
+    .section-1 .card-image-top{
+        height: 13rem;
+    }
+   
+@media screen and (max-width : 320px) {
+    
+    .section-1 .heading-1, .section-1 .heading-2{
+        font-size: 25px;
+    }
+    .section-1 .col-md-4{
+        padding: 5%;
+        margin-left: 12%;
+        margin-right: 0%;
+    }
+    .section-1 .card{
+        width: 15rem;
+    }
+    
+}
